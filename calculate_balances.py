@@ -71,6 +71,5 @@ def generate_balances(all_user_data):
   return user_balances
 
 
-#all_user_data = get_transactions("Intern-AccountTransactions.xlsx")
-all_user_data = get_transactions("test.xlsx")
+all_user_data = get_transactions("Intern-AccountTransactions.xlsx")
 pprint.pprint(generate_balances(all_user_data))
