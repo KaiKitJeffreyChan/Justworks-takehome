@@ -2,8 +2,8 @@
 
 ## How to run the project ##
 1. Clone the following repository  
-2. You can now add your test case xlsx file with the test sheet named "Data" or use the one provided in the email
-3. Run <code>pip3 install pandas</code> ensuring you have pip>=19.3 to install
+2. You can now add your test case xlsx file with the test sheet named "Data" and name it "Intern-AccountTransactions.xlsx", or use the one provided in the email which is already in the repo
+3. Run <code>pip install pandas</code> ensuring you have pip>=19.3 to install
 4. Run <code>python3 calculate_balances.py</code>
 
 ## Assumptions ##
