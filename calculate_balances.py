@@ -1,3 +1,18 @@
+# How to run the following program
+
+# Method 1: 
+# Go to https://replit.com/join/vyluvgtidb-jeffreychan6 and login with the following credentials
+# Username: Justworks
+# Password: Justworks
+# Press the Green Run button and view the console output (on the right side of the screen)
+
+# Method 2: 
+# In the current dir, run $ pip install pandas 
+# Then run python3 calculate_balances.py 
+
+# Method 3: 
+# Go to https://github.com/KaiKitJeffreyChan/Justworks-takehome and follow the instructions in the README.md
+
 import pandas as pd
 import pprint
 
