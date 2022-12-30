@@ -7,7 +7,7 @@
 # Press the Green Run button and view the console output (on the right side of the screen)
 
 # Method 2: 
-# In the current dir, run $ pip install pandas 
+# In the current environment install pandas, run $ pip install pandas 
 # Then run python3 calculate_balances.py 
 
 # Method 3: 
