@@ -1,4 +1,4 @@
-# How to run the following program
+# How to run the following program ----------------------------------------------------------------
 
 # Method 1: 
 # Go to https://replit.com/join/vyluvgtidb-jeffreychan6 and login with the following credentials
@@ -12,6 +12,14 @@
 
 # Method 3: 
 # Go to https://github.com/KaiKitJeffreyChan/Justworks-takehome and follow the instructions in the README.md
+
+# Assumptions ---------------------------------------------------------------------------------------
+
+#All credit transactions were (-) and all debit transactions were (+)
+#All transactions will be in order (ex. a transaction on Dec 12th 2022 could not be followed by a transaction on Dec 5th 2022)
+#There could be multiple transactions within the same day
+#There could be an uneven amount of debit and credit transactions
+#There could be multiple months for a single user
 
 import pandas as pd
 import pprint
